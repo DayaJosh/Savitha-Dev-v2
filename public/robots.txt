@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://savitha.us/sitemap.xml
